@@ -4,7 +4,7 @@ Twitter is a form of social media with widespread use, a platform that millions 
 
 For this project, I executed sentiment analysis on tweets about the two latest US Presidents: Donald Trump and Barack Obama. 
 
-In terms of data, I collected ~4,500 tweets on them via the Twitter API, focusing specifically American-based tweets for this analysis.
+In terms of data, I collected ~4,500 tweets on them via the Twitter API, focusing specifically on American-based tweets for this analysis.
 
 This project essentially implement an **end-to-end Data Pipeline**, from extraction to storage, and from storage to manipulation and visualiazation. The project is organized in 3 notebooks:
 1. Project Intro and Data Extraction
