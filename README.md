@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis
+# Twitter Sentiment Analysis: US Presidents
 
 Twitter is a form of social media with widespread use, a platform that millions of users visit to get informed on news, and also share their views. As of 2019, Twitter reported more than 330 million monthly active users, of which 145 million do use the service daily.
 
